@@ -20,7 +20,7 @@ GLboolean moving = GL_FALSE;
 #define MAX_PLANES 15
 struct
 {
-    float speed;          /* zero speed means not flying */
+    float speed;          /* zero speed means not 
     GLfloat red, green, blue;
     float theta;
     float x, y, z, angle;
